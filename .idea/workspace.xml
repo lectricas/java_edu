@@ -124,11 +124,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearchForZero" />
-      <item itemvalue="Application.IntervalSum2" />
       <item itemvalue="Application.IntervalSum" />
+      <item itemvalue="Application.IntervalSum2" />
       <item itemvalue="Application.MaxSubArray" />
       <item itemvalue="Application.NextYear" />
+      <item itemvalue="Application.BinarySearchForZero" />
     </list>
     <recent_temporary>
       <list>
@@ -238,10 +238,10 @@
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state x="1060" y="351" width="717" height="729" key="#xdebugger.evaluate/67.34.1853.1046@67.34.1853.1046" timestamp="1583079030683" />
-    <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2" timestamp="1585323769253">
+    <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2" timestamp="1585324841766">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2/67.34.1853.1046@67.34.1853.1046" timestamp="1585323769253" />
+    <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2/67.34.1853.1046@67.34.1853.1046" timestamp="1585324841766" />
     <state x="687" y="211" width="613" height="691" key="DetectedRootsChooserDialog" timestamp="1577193675091">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
@@ -298,10 +298,10 @@
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state width="623" height="498" key="SwitcherDM/67.34.1853.1046@67.34.1853.1046" timestamp="1585243269331" />
-    <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1585323771852">
+    <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1585324843939">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.34.1853.1046@67.34.1853.1046" timestamp="1585323771852" />
+    <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.34.1853.1046@67.34.1853.1046" timestamp="1585324843939" />
     <state x="573" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577466947151">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
