@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbe7fd56-c5ad-4f5d-a39c-51d6b960587c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="270" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VPDmH59LcrXNfjvVuiNahLD4Iw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CourseraAlgos1/week3" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.197" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lectricas.contest5048" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearchForZero">
+    <configuration name="BinarySearchForZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.BinarySearchForZero" />
+      <module name="Edu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lectricas.olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntervalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.IntervalSum" />
+      <module name="Edu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lectricas.olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntervalSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.IntervalSum2" />
+      <module name="Edu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lectricas.olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.MaxSubArray" />
+      <module name="Edu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lectricas.olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.NextYear" />
+      <module name="Edu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lectricas.olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BinarySearchForZero" />
+      <item itemvalue="Application.IntervalSum2" />
+      <item itemvalue="Application.IntervalSum" />
+      <item itemvalue="Application.MaxSubArray" />
+      <item itemvalue="Application.NextYear" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearchForZero" />
+        <item itemvalue="Application.NextYear" />
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.IntervalSum2" />
+        <item itemvalue="Application.IntervalSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbe7fd56-c5ad-4f5d-a39c-51d6b960587c" name="Default Changelist" comment="" />
+      <created>1577145993980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577145993980</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added gitignore">
+      <created>1582315479913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582315479913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1582316410936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582316410936</updated>
+    </task>
+    <task id="LOCAL-00003" summary="started with intro to sport coding">
+      <created>1585323769624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585323769624</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added gitignore" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="started with intro to sport coding" />
+    <option name="LAST_COMMIT_MESSAGE" value="started with intro to sport coding" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="136" width="1000" height="839" key="#Project_Structure" timestamp="1577192389753">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="488" y="136" width="1000" height="839" key="#Project_Structure/67.34.1853.1046@67.34.1853.1046" timestamp="1577192389753" />
+    <state x="447" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581979115965">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="447" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1581979115965" />
+    <state x="635" y="343" width="706" height="425" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582551926546">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="635" y="343" width="706" height="425" key="#com.intellij.fileTypes.FileTypeChooser/67.34.1853.1046@67.34.1853.1046" timestamp="1582551926546" />
+    <state x="754" y="200" width="468" height="712" key="#com.intellij.ide.util.MemberChooser" timestamp="1583074778991">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="754" y="200" width="468" height="712" key="#com.intellij.ide.util.MemberChooser/67.34.1853.1046@67.34.1853.1046" timestamp="1583074778991" />
+    <state x="660" y="301" width="656" height="510" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578131848042">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="660" y="301" width="656" height="510" key="#com.intellij.ide.util.TreeClassChooserDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1578131848042" />
+    <state x="800" y="441" width="377" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583771646280">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="800" y="441" width="377" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1583771646280" />
+    <state x="701" y="422" width="585" height="281" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581625239639">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="701" y="422" width="585" height="281" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.34.1853.1046@67.34.1853.1046" timestamp="1581625239639" />
+    <state x="527" y="34" width="922" height="1046" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582052096297">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="527" y="34" width="922" height="1046" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1582052096297" />
+    <state x="661" y="246" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583069248945">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="661" y="246" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1583069248945" />
+    <state x="572" y="160" width="832" height="792" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1580390326847">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="572" y="160" width="832" height="792" key="#com.intellij.unscramble.UnscrambleDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1580390326847" />
+    <state x="1060" y="351" width="717" height="729" key="#xdebugger.evaluate" timestamp="1583079030683">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="1060" y="351" width="717" height="729" key="#xdebugger.evaluate/67.34.1853.1046@67.34.1853.1046" timestamp="1583079030683" />
+    <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2" timestamp="1585323769253">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2/67.34.1853.1046@67.34.1853.1046" timestamp="1585323769253" />
+    <state x="687" y="211" width="613" height="691" key="DetectedRootsChooserDialog" timestamp="1577193675091">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="687" y="211" width="613" height="691" key="DetectedRootsChooserDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1577193675091" />
+    <state x="729" y="258" width="530" height="598" key="FileChooserDialogImpl" timestamp="1582184384726">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="729" y="258" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1582184384726" />
+    <state width="1797" height="360" key="GridCell.Tab.0.bottom" timestamp="1585297683493">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="360" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683493" />
+    <state width="1797" height="360" key="GridCell.Tab.0.center" timestamp="1585297683489">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="360" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683489" />
+    <state width="1797" height="360" key="GridCell.Tab.0.left" timestamp="1585297683487">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="360" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683487" />
+    <state width="1797" height="360" key="GridCell.Tab.0.right" timestamp="1585297683492">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="360" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683492" />
+    <state width="1797" height="446" key="GridCell.Tab.1.bottom" timestamp="1583308067946">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="446" key="GridCell.Tab.1.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067946" />
+    <state width="1797" height="446" key="GridCell.Tab.1.center" timestamp="1583308067945">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="446" key="GridCell.Tab.1.center/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067945" />
+    <state width="1797" height="446" key="GridCell.Tab.1.left" timestamp="1583308067945">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="446" key="GridCell.Tab.1.left/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067945" />
+    <state width="1797" height="446" key="GridCell.Tab.1.right" timestamp="1583308067946">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="446" key="GridCell.Tab.1.right/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067946" />
+    <state x="498" y="186" width="981" height="739" key="NewModule_or_Project.wizard" timestamp="1580831369927">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="498" y="186" width="981" height="739" key="NewModule_or_Project.wizard/67.34.1853.1046@67.34.1853.1046" timestamp="1580831369927" />
+    <state x="770" y="202" width="436" height="708" key="RollbackChangesDialog" timestamp="1582316376193">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="770" y="202" width="436" height="708" key="RollbackChangesDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1582316376193" />
+    <state x="87" y="34" width="1800" height="1046" key="SettingsEditor" timestamp="1582315969320">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="87" y="34" width="1800" height="1046" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1582315969320" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1585243269331">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/67.34.1853.1046@67.34.1853.1046" timestamp="1585243269331" />
+    <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1585323771852">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.34.1853.1046@67.34.1853.1046" timestamp="1585323771852" />
+    <state x="573" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577466947151">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="573" y="345" key="com.intellij.ide.util.TipDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1577466947151" />
+    <state x="561" y="50" width="864" height="1011" key="find.popup" timestamp="1583072942669">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="561" y="50" width="864" height="1011" key="find.popup/67.34.1853.1046@67.34.1853.1046" timestamp="1583072942669" />
+    <state x="153" y="187" width="1671" height="737" key="new project wizard" timestamp="1582099058074">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="153" y="187" width="1671" height="737" key="new project wizard/67.34.1853.1046@67.34.1853.1046" timestamp="1582099058074" />
+    <state x="573" y="251" key="run.anything.popup" timestamp="1583076512782">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="573" y="251" key="run.anything.popup/67.34.1853.1046@67.34.1853.1046" timestamp="1583076512782" />
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1583072928022">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.34.1853.1046@67.34.1853.1046" timestamp="1583072928022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/stepik_algs/Hoffman.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/stepik_algs/HoffmanDecode.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/stepik_algs/Heap.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/contest5048/TournamentTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/contest5048/InterestingJourney.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/coursera/princeton/MergeWithHalfSpace.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/contest18070/Bosses.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/linear/GaussElimination.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Edu2$QuickSort.ic" NAME="QuickSort Coverage Results" MODIFIED="1580578883423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lectricas.*</FILTER>
+    </SUITE>
+  </component>
+</project>
