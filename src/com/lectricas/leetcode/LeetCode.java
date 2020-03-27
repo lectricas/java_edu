@@ -7,9 +7,24 @@ import java.util.Map;
 public class LeetCode {
 
     public static void main(String[] args) {
-        int[] a = new int[]{2,2,1,1,1,2,2,1,1,2,2};
-        System.out.println(majorityElement(a));
+//        int[] a = new int[]{2, 2, 1, 1, 1, 2, 2, 1, 1, 2, 2};
+//        System.out.println(majorityElement(a));
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        link(head);
     }
+
+    public static boolean link(ListNode head) {
+        if (head != null) {
+            int before = head.val;
+            System.out.println(before);
+            link(head.next);
+            int after = head.val;
+            System.out.println(after);
+        }
+        return true;
+    }
+
 
     public static int majorityElement(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -38,18 +53,18 @@ public class LeetCode {
 
     public static void moveZeroes(int[] nums) {
         int j = 0;
-        while(j < nums.length && nums[j] != 0) {
+        while (j < nums.length && nums[j] != 0) {
             j++;
         }
 
-        for(int i = j + 1; i < nums.length; i++) {
+        for (int i = j + 1; i < nums.length; i++) {
             if (nums[i] != 0) {
                 nums[j] = nums[i];
                 j++;
             }
         }
 
-        while(j < nums.length) {
+        while (j < nums.length) {
             nums[j] = 0;
             j++;
         }
@@ -77,11 +92,11 @@ public class LeetCode {
             if (sum == 3) {
                 s.insert(0, 1);
                 rem = 1;
-            } else if  (sum == 2) {
+            } else if (sum == 2) {
                 s.insert(0, 0);
                 rem = 1;
             } else {
-                s.insert(0,sum);
+                s.insert(0, sum);
             }
             i--;
         }
@@ -156,6 +171,15 @@ public class LeetCode {
             total += map.get(s);
         }
         return total;
+    }
+
+    public static class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int x) {
+            val = x;
+        }
     }
 //
 //    public static int removeDuplicates(int[] nums) {

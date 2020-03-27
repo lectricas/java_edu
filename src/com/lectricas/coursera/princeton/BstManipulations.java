@@ -20,14 +20,24 @@ public class BstManipulations {
             bst.put(arr[i], i + "");
         }
 
-        for (Bst.Node node : bst.iterator()) {
-            System.out.print(node.key + " " + node.value + ", ");
-        }
+//        for (Bst.Node node : bst.iterator()) {
+//            System.out.print(node.key + " " + node.value + ", ");
+//        }
+//
+//        System.out.println();
+//        for (Bst.Node node : bst.iteratorBFS()) {
+//            System.out.print(node.key + " " + node.value + ", ");
+//        }
 
-        System.out.println();
-        for (Bst.Node node : bst.iteratorBFS()) {
-            System.out.print(node.key + " " + node.value + ", ");
-        }
+//        for (Bst.Node node : bst.postOrderIterator()) {
+//            System.out.print(node.key + " ");
+//        }
+
+        bst.postOrderIterator();
+
+//        bst.traversal();
+
+
     }
 
 
@@ -74,9 +84,24 @@ public class BstManipulations {
 
         private void inOrder(Queue<Node> queue, Node root) {
             if (root != null) {
-                queue.add(root);
                 inOrder(queue, root.left);
+                queue.add(root);
                 inOrder(queue, root.right);
+            }
+        }
+
+        public Queue<Node> postOrderIterator() {
+            Queue<Node> queue = new LinkedList();
+            postOrder(queue, root);
+            return queue;
+        }
+
+        private void postOrder(Queue<Node> queue, Node root) {
+            if (root != null) {
+                postOrder(queue, root.left);
+                postOrder(queue, root.right);
+                System.out.print(root.value + " ");
+//                queue.add(root);
             }
         }
 
@@ -108,6 +133,27 @@ public class BstManipulations {
                 this.key = key;
                 this.count = count;
             }
+        }
+
+        private Stack<Node> traversal() {
+            Node x = root;
+            Stack<Node> s = new Stack();
+
+            while (x != null || !s.isEmpty()) {
+
+                Node left = x;
+                while (left != null) {
+                    s.push(left);
+                    left = left.left;
+                }
+
+                x = s.pop();
+                System.out.print(x.key + " ");
+
+                x = x.right;
+            }
+
+            return s;
         }
     }
 
