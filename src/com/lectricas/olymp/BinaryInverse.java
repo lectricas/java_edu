@@ -6,9 +6,9 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-class BinarySearchForZero {
+class BinaryInverse {
     public static void main(String[] args) throws Exception {
-        BinarySearchForZero zero = new BinarySearchForZero();
+        BinaryInverse zero = new BinaryInverse();
         zero.run();
     }
 
@@ -17,27 +17,17 @@ class BinarySearchForZero {
         int n = f.nextInt();
         int m = f.nextInt();
         int[] ks = f.lineToIntArr(m);
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        for (int i = 0; i < ks.length; i++) {
-            bw.write(binary(ks[i], n)+ "\n");
-        }
-        bw.flush();
-    }
-
-    private int binary(int k, int n) {
         int left = -1;
         int right = n;
-        int count = 0;
-        while (right > left + 1) {
-            count++;
+        for (int i = 0; i < ks.length; i++) {
             int middle = (left + right) / 2;
-            if (k > middle) {
+            if (ks[i] == 0) {
                 left = middle;
             } else {
                 right = middle;
             }
         }
-        return count;
+        System.out.println(right);
     }
 
     private static final class FastInput {

@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbe7fd56-c5ad-4f5d-a39c-51d6b960587c" name="Default Changelist" comment="" />
+    <list default="true" id="cbe7fd56-c5ad-4f5d-a39c-51d6b960587c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/Conditioners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/LivingPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/BinaryInverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/BinarySearchYesNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/BusStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/CheckIfPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/CircleAndPolynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/ConditionersGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Cows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Csc2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Diplomas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Eratosphenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Miles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/ModuloFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/ModuloFib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/ModuloSubSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/PolynomialModulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Polynomials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/PowerOfTwoTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/Ropes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/SpecialSquence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/SumOfMultiplies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/SunOfDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/ThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/TimeToPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/UpperBoundBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/rucode/BadSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/rucode/CheckString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/rucode/Frogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/rucode/Generals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/rucode/Locomotiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lectricas/rucode/SumOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lectricas/olymp/BinarySearchForZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lectricas/olymp/BinarySearchForZero.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +58,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -42,9 +84,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CourseraAlgos1/week3" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.197" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -57,9 +100,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchForZero">
-    <configuration name="BinarySearchForZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.BinarySearchForZero" />
+  <component name="RunManager" selected="Application.LivingPeople">
+    <configuration name="Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.Condition" />
       <module name="Edu2" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +114,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntervalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.IntervalSum" />
+    <configuration name="Conditioners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.Conditioners" />
+      <module name="Edu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lectricas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionersGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.ConditionersGenerator" />
       <module name="Edu2" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +140,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntervalSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.IntervalSum2" />
+    <configuration name="LivingPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.LivingPeople" />
+      <module name="Edu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lectricas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Miles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.Miles" />
       <module name="Edu2" />
       <extension name="coverage">
         <pattern>
@@ -97,46 +166,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.MaxSubArray" />
+    <configuration name="SumOfDic" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="Edu2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lectricas.olymp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.NextYear" />
-      <module name="Edu2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lectricas.olymp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="Kotlin SDK" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lectricas.olymp.SumOfDicKt" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IntervalSum" />
-      <item itemvalue="Application.IntervalSum2" />
-      <item itemvalue="Application.MaxSubArray" />
-      <item itemvalue="Application.NextYear" />
-      <item itemvalue="Application.BinarySearchForZero" />
+      <item itemvalue="Kotlin.SumOfDic" />
+      <item itemvalue="Application.Miles" />
+      <item itemvalue="Application.Condition" />
+      <item itemvalue="Application.ConditionersGenerator" />
+      <item itemvalue="Application.Conditioners" />
+      <item itemvalue="Application.LivingPeople" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearchForZero" />
-        <item itemvalue="Application.NextYear" />
-        <item itemvalue="Application.MaxSubArray" />
-        <item itemvalue="Application.IntervalSum2" />
-        <item itemvalue="Application.IntervalSum" />
+        <item itemvalue="Application.LivingPeople" />
+        <item itemvalue="Application.Conditioners" />
+        <item itemvalue="Application.Miles" />
+        <item itemvalue="Application.Condition" />
+        <item itemvalue="Application.ConditionersGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -194,29 +251,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="started with intro to sport coding" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="136" width="1000" height="839" key="#Project_Structure" timestamp="1577192389753">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="191" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586098258779">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
-    <state x="488" y="136" width="1000" height="839" key="#Project_Structure/67.34.1853.1046@67.34.1853.1046" timestamp="1577192389753" />
-    <state x="447" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581979115965">
-      <screen x="67" y="34" width="1853" height="1046" />
-    </state>
+    <state x="191" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.0.1217.720@63.0.1217.720" timestamp="1586098258779" />
     <state x="447" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1581979115965" />
     <state x="635" y="343" width="706" height="425" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582551926546">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state x="635" y="343" width="706" height="425" key="#com.intellij.fileTypes.FileTypeChooser/67.34.1853.1046@67.34.1853.1046" timestamp="1582551926546" />
-    <state x="754" y="200" width="468" height="712" key="#com.intellij.ide.util.MemberChooser" timestamp="1583074778991">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="514" y="114" width="468" height="712" key="#com.intellij.ide.util.MemberChooser" timestamp="1586347674700">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="514" y="114" key="#com.intellij.ide.util.MemberChooser/63.0.1217.720@63.0.1217.720" timestamp="1586347674700" />
     <state x="754" y="200" width="468" height="712" key="#com.intellij.ide.util.MemberChooser/67.34.1853.1046@67.34.1853.1046" timestamp="1583074778991" />
-    <state x="660" y="301" width="656" height="510" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578131848042">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="452" y="184" width="656" height="510" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586098075917">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="452" y="184" key="#com.intellij.ide.util.TreeClassChooserDialog/63.0.1217.720@63.0.1217.720" timestamp="1586098075917" />
     <state x="660" y="301" width="656" height="510" key="#com.intellij.ide.util.TreeClassChooserDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1578131848042" />
-    <state x="800" y="441" width="377" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583771646280">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="544" y="280" width="288" height="159" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585314515912">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="544" y="280" width="288" height="159" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/63.0.1217.720@63.0.1217.720" timestamp="1585314515912" />
     <state x="800" y="441" width="377" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1583771646280" />
     <state x="701" y="422" width="585" height="281" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581625239639">
       <screen x="67" y="34" width="1853" height="1046" />
@@ -234,53 +291,59 @@
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state x="572" y="160" width="832" height="792" key="#com.intellij.unscramble.UnscrambleDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1580390326847" />
-    <state x="1060" y="351" width="717" height="729" key="#xdebugger.evaluate" timestamp="1583079030683">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="456" y="218" width="488" height="502" key="#xdebugger.evaluate" timestamp="1586346555448">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="456" y="218" width="488" height="502" key="#xdebugger.evaluate/63.0.1217.720@63.0.1217.720" timestamp="1586346555448" />
     <state x="1060" y="351" width="717" height="729" key="#xdebugger.evaluate/67.34.1853.1046@67.34.1853.1046" timestamp="1583079030683" />
-    <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2" timestamp="1585324841766">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="353" y="34" width="958" height="944" key="CommitChangelistDialog2" timestamp="1586506884665">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="353" y="34" key="CommitChangelistDialog2/63.0.1217.720@63.0.1217.720" timestamp="1586506884665" />
     <state x="509" y="84" width="958" height="944" key="CommitChangelistDialog2/67.34.1853.1046@67.34.1853.1046" timestamp="1585324841766" />
-    <state x="687" y="211" width="613" height="691" key="DetectedRootsChooserDialog" timestamp="1577193675091">
-      <screen x="67" y="34" width="1853" height="1046" />
-    </state>
-    <state x="687" y="211" width="613" height="691" key="DetectedRootsChooserDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1577193675091" />
     <state x="729" y="258" width="530" height="598" key="FileChooserDialogImpl" timestamp="1582184384726">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state x="729" y="258" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1582184384726" />
-    <state width="1797" height="360" key="GridCell.Tab.0.bottom" timestamp="1585297683493">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="167" key="GridCell.Tab.0.bottom" timestamp="1586506868476">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="167" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1586506868476" />
     <state width="1797" height="360" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683493" />
-    <state width="1797" height="360" key="GridCell.Tab.0.center" timestamp="1585297683489">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="167" key="GridCell.Tab.0.center" timestamp="1586506868475">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="167" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1586506868475" />
     <state width="1797" height="360" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683489" />
-    <state width="1797" height="360" key="GridCell.Tab.0.left" timestamp="1585297683487">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="167" key="GridCell.Tab.0.left" timestamp="1586506868474">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="167" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1586506868474" />
     <state width="1797" height="360" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683487" />
-    <state width="1797" height="360" key="GridCell.Tab.0.right" timestamp="1585297683492">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="167" key="GridCell.Tab.0.right" timestamp="1586506868475">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="167" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1586506868475" />
     <state width="1797" height="360" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1585297683492" />
-    <state width="1797" height="446" key="GridCell.Tab.1.bottom" timestamp="1583308067946">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="248" key="GridCell.Tab.1.bottom" timestamp="1586471693164">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="248" key="GridCell.Tab.1.bottom/63.0.1217.720@63.0.1217.720" timestamp="1586471693164" />
     <state width="1797" height="446" key="GridCell.Tab.1.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067946" />
-    <state width="1797" height="446" key="GridCell.Tab.1.center" timestamp="1583308067945">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="248" key="GridCell.Tab.1.center" timestamp="1586471693164">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="248" key="GridCell.Tab.1.center/63.0.1217.720@63.0.1217.720" timestamp="1586471693164" />
     <state width="1797" height="446" key="GridCell.Tab.1.center/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067945" />
-    <state width="1797" height="446" key="GridCell.Tab.1.left" timestamp="1583308067945">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="248" key="GridCell.Tab.1.left" timestamp="1586471693164">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="248" key="GridCell.Tab.1.left/63.0.1217.720@63.0.1217.720" timestamp="1586471693164" />
     <state width="1797" height="446" key="GridCell.Tab.1.left/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067945" />
-    <state width="1797" height="446" key="GridCell.Tab.1.right" timestamp="1583308067946">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="1173" height="248" key="GridCell.Tab.1.right" timestamp="1586471693164">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="1173" height="248" key="GridCell.Tab.1.right/63.0.1217.720@63.0.1217.720" timestamp="1586471693164" />
     <state width="1797" height="446" key="GridCell.Tab.1.right/67.34.1853.1046@67.34.1853.1046" timestamp="1583308067946" />
     <state x="498" y="186" width="981" height="739" key="NewModule_or_Project.wizard" timestamp="1580831369927">
       <screen x="67" y="34" width="1853" height="1046" />
@@ -290,25 +353,28 @@
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state x="770" y="202" width="436" height="708" key="RollbackChangesDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1582316376193" />
-    <state x="87" y="34" width="1800" height="1046" key="SettingsEditor" timestamp="1582315969320">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="76" y="0" width="1800" height="1046" key="SettingsEditor" timestamp="1586098333967">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="76" y="0" key="SettingsEditor/63.0.1217.720@63.0.1217.720" timestamp="1586098333967" />
     <state x="87" y="34" width="1800" height="1046" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1582315969320" />
-    <state width="623" height="498" key="SwitcherDM" timestamp="1585243269331">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1586428057040">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state width="498" height="398" key="SwitcherDM/63.0.1217.720@63.0.1217.720" timestamp="1586428057040" />
     <state width="623" height="498" key="SwitcherDM/67.34.1853.1046@67.34.1853.1046" timestamp="1585243269331" />
     <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1585324843939">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state x="488" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.34.1853.1046@67.34.1853.1046" timestamp="1585324843939" />
-    <state x="573" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577466947151">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="395" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1586339504007">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
-    <state x="573" y="345" key="com.intellij.ide.util.TipDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1577466947151" />
-    <state x="561" y="50" width="864" height="1011" key="find.popup" timestamp="1583072942669">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="395" y="214" key="com.intellij.ide.util.TipDialog/63.0.1217.720@63.0.1217.720" timestamp="1586339504007" />
+    <state x="387" y="11" width="591" height="696" key="find.popup" timestamp="1586376511056">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="387" y="11" width="591" height="696" key="find.popup/63.0.1217.720@63.0.1217.720" timestamp="1586376511056" />
     <state x="561" y="50" width="864" height="1011" key="find.popup/67.34.1853.1046@67.34.1853.1046" timestamp="1583072942669" />
     <state x="153" y="187" width="1671" height="737" key="new project wizard" timestamp="1582099058074">
       <screen x="67" y="34" width="1853" height="1046" />
@@ -318,9 +384,10 @@
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
     <state x="573" y="251" key="run.anything.popup/67.34.1853.1046@67.34.1853.1046" timestamp="1583076512782" />
-    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1583072928022">
-      <screen x="67" y="34" width="1853" height="1046" />
+    <state x="395" y="8" width="672" height="712" key="search.everywhere.popup" timestamp="1586376505935">
+      <screen x="63" y="0" width="1217" height="720" />
     </state>
+    <state x="395" y="8" width="672" height="712" key="search.everywhere.popup/63.0.1217.720@63.0.1217.720" timestamp="1586376505935" />
     <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.34.1853.1046@67.34.1853.1046" timestamp="1583072928022" />
   </component>
   <component name="XDebuggerManager">
@@ -365,6 +432,51 @@
           <url>file://$PROJECT_DIR$/src/com/lectricas/linear/GaussElimination.java</url>
           <line>54</line>
           <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/olymp/CircleAndPolynomial.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/olymp/Cows.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/olymp/Cows.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/olymp/Cows.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/rucode/Locomotiv.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/rucode/Locomotiv.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/rucode/Locomotiv.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/Conditioners.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lectricas/Conditioners.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="140" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
